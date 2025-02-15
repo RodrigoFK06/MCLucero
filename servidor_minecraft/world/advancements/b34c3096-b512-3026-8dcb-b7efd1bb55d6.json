@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-15 22:43:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-15 21:38:29 +0000"
@@ -170,6 +176,12 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-02-15 22:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-15 22:41:49 +0000"
     },
     "done": true
   },
@@ -329,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-02-15 22:42:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-02-15 22:13:35 +0000"
@@ -374,6 +392,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-02-15 21:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-15 22:42:12 +0000"
     },
     "done": true
   },
@@ -428,6 +452,18 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-02-15 22:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-15 22:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-15 22:43:52 +0000"
     },
     "done": true
   },
@@ -617,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-15 22:41:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-15 22:17:27 +0000"
@@ -716,6 +758,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-02-15 21:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-15 22:41:49 +0000"
     },
     "done": true
   },
@@ -830,6 +878,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-02-15 21:35:33 +0000",
+      "minecraft:beach": "2025-02-15 22:47:35 +0000",
       "minecraft:river": "2025-02-15 21:49:27 +0000",
       "minecraft:snowy_plains": "2025-02-15 21:19:47 +0000",
       "minecraft:forest": "2025-02-15 21:36:14 +0000",
@@ -881,6 +930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-15 22:41:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-15 21:48:56 +0000"
@@ -907,7 +962,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "sweet_berries": "2025-02-15 21:47:13 +0000"
+      "sweet_berries": "2025-02-15 21:47:13 +0000",
+      "apple": "2025-02-15 22:47:22 +0000",
+      "potato": "2025-02-15 22:44:01 +0000",
+      "beetroot": "2025-02-15 22:42:18 +0000"
     },
     "done": false
   },
