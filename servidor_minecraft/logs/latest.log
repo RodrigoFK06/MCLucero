@@ -46,3 +46,6 @@
 [22:02:15] [Server thread/INFO]: RodrigoFK has made the advancement [Diamonds!]
 [22:02:19] [Server thread/INFO]: Cer0d0s has made the advancement [Isn't It Iron Pick]
 [22:02:48] [Server thread/INFO]: Cer0d0s has made the advancement [Diamonds!]
+[22:10:35] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=90, y=79, z=685} gu{x=91, y=78, z=686}
+[22:10:35] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=90, y=79, z=685} gu{x=91, y=78, z=686}
+[22:12:40] [Server thread/INFO]: [RodrigoFK: Teleported Cer0d0s to RodrigoFK]
