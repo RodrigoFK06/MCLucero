@@ -9,10 +9,15 @@
     "criteria": {
       "minecraft:taiga": "2025-02-15 21:45:42 +0000",
       "minecraft:frozen_river": "2025-02-15 21:35:35 +0000",
+      "minecraft:birch_forest": "2025-02-15 22:58:37 +0000",
       "minecraft:beach": "2025-02-15 22:08:36 +0000",
+      "minecraft:dark_forest": "2025-02-15 22:58:32 +0000",
       "minecraft:river": "2025-02-15 21:49:12 +0000",
       "minecraft:snowy_plains": "2025-02-15 18:08:29 +0000",
+      "minecraft:stony_shore": "2025-02-15 22:57:46 +0000",
+      "minecraft:cold_ocean": "2025-02-15 22:57:51 +0000",
       "minecraft:forest": "2025-02-15 21:36:12 +0000",
+      "minecraft:ocean": "2025-02-15 22:58:17 +0000",
       "minecraft:plains": "2025-02-15 21:36:00 +0000"
     },
     "done": false
@@ -89,6 +94,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-15 22:57:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-02-15 21:58:56 +0000"
@@ -137,6 +148,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-15 22:53:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 21:50:13 +0000"
@@ -146,6 +163,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-02-15 22:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-15 22:57:55 +0000"
     },
     "done": true
   },
@@ -233,6 +256,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-15 22:52:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-02-15 22:04:59 +0000"
@@ -248,6 +277,12 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-02-15 22:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-15 22:50:10 +0000"
     },
     "done": true
   },
@@ -356,6 +391,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-02-15 22:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-15 22:57:55 +0000"
     },
     "done": true
   },
@@ -827,6 +868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-15 22:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-02-15 22:08:19 +0000"
@@ -934,6 +981,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-02-15 22:17:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-15 22:50:10 +0000"
     },
     "done": true
   },
@@ -1108,6 +1161,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-15 21:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-15 22:50:10 +0000"
     },
     "done": true
   },
