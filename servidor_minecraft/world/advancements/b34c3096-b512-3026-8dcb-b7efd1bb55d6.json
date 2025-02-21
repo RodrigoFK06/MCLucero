@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:vindicator": "2025-02-21 05:05:59 +0000",
       "minecraft:zombie": "2025-02-15 21:28:09 +0000"
     },
     "done": false
@@ -535,12 +536,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-21 05:01:57 +0000",
       "sweet_berries": "2025-02-15 21:47:13 +0000",
       "cooked_beef": "2025-02-21 04:36:35 +0000",
       "apple": "2025-02-15 22:47:22 +0000",
       "potato": "2025-02-15 22:44:01 +0000",
       "glow_berries": "2025-02-15 23:12:44 +0000",
-      "beetroot": "2025-02-15 22:42:18 +0000"
+      "beetroot": "2025-02-15 22:42:18 +0000",
+      "cooked_chicken": "2025-02-21 05:28:02 +0000"
     },
     "done": false
   },
@@ -1372,15 +1375,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_the_recipe": "2025-02-21 05:28:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-02-21 04:41:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-21 05:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-02-21 05:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-02-21 04:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-21 05:06:00 +0000"
     },
     "done": true
   },

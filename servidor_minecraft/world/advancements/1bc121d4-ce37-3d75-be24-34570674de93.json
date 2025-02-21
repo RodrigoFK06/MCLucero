@@ -281,8 +281,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-21 05:16:39 +0000",
+      "minecraft:vindicator": "2025-02-21 05:04:16 +0000",
       "minecraft:creeper": "2025-02-15 22:30:33 +0000",
+      "minecraft:evoker": "2025-02-21 05:06:24 +0000",
       "minecraft:cave_spider": "2025-02-15 22:25:59 +0000",
+      "minecraft:vex": "2025-02-21 05:07:49 +0000",
       "minecraft:zombie": "2025-02-15 21:39:53 +0000"
     },
     "done": false
@@ -317,6 +321,7 @@
       "cooked_mutton": "2025-02-15 22:47:13 +0000",
       "sweet_berries": "2025-02-15 21:47:12 +0000",
       "cooked_beef": "2025-02-15 22:10:06 +0000",
+      "bread": "2025-02-21 05:15:29 +0000",
       "cooked_chicken": "2025-02-15 22:48:37 +0000"
     },
     "done": false
@@ -1551,6 +1556,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-21 05:16:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-21 04:46:58 +0000"
@@ -1581,15 +1592,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-21 05:25:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-02-21 04:31:28 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-21 05:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-02-21 05:25:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-02-21 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-21 05:20:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-21 05:06:25 +0000"
     },
     "done": true
   },
@@ -1605,9 +1646,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-21 05:17:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-02-21 04:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-21 05:07:12 +0000"
     },
     "done": true
   },
@@ -1644,6 +1697,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-21 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-02-21 05:25:19 +0000"
     },
     "done": true
   },
