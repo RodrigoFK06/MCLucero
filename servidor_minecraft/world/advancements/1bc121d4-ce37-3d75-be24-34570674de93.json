@@ -20,9 +20,11 @@
       "minecraft:swamp": "2025-02-15 23:03:26 +0000",
       "minecraft:cold_ocean": "2025-02-15 22:57:51 +0000",
       "minecraft:forest": "2025-02-15 21:36:12 +0000",
+      "minecraft:lush_caves": "2025-02-21 05:46:17 +0000",
       "minecraft:windswept_forest": "2025-02-21 04:30:58 +0000",
       "minecraft:ocean": "2025-02-15 22:58:17 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-21 04:30:27 +0000",
+      "minecraft:meadow": "2025-02-21 05:45:58 +0000",
       "minecraft:plains": "2025-02-15 21:36:00 +0000"
     },
     "done": false
@@ -283,6 +285,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-21 05:16:39 +0000",
       "minecraft:vindicator": "2025-02-21 05:04:16 +0000",
+      "minecraft:spider": "2025-02-21 05:47:50 +0000",
       "minecraft:creeper": "2025-02-15 22:30:33 +0000",
       "minecraft:evoker": "2025-02-21 05:06:24 +0000",
       "minecraft:cave_spider": "2025-02-15 22:25:59 +0000",
@@ -1562,6 +1565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-21 05:40:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-21 04:46:58 +0000"
@@ -1571,6 +1580,18 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-02-21 04:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-02-21 05:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-21 05:49:41 +0000"
     },
     "done": true
   },
@@ -1586,6 +1607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-21 05:49:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-02-21 04:34:19 +0000"
@@ -1595,6 +1622,12 @@
   "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-02-21 05:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-21 05:49:41 +0000"
     },
     "done": true
   },
@@ -1610,6 +1643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-21 05:41:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-02-21 05:25:19 +0000"
@@ -1619,6 +1658,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-02-21 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-02-21 05:41:33 +0000"
     },
     "done": true
   },
@@ -1634,9 +1679,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-21 05:49:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-02-21 04:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-21 05:41:22 +0000"
     },
     "done": true
   },
@@ -1664,9 +1721,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-02-21 05:41:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-02-21 04:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-02-21 05:41:33 +0000"
     },
     "done": true
   },
@@ -1676,9 +1745,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-21 05:49:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-02-21 04:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-02-21 05:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-21 05:40:54 +0000"
     },
     "done": true
   },
@@ -1694,6 +1781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-21 05:49:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-21 04:46:58 +0000"
@@ -1703,6 +1796,18 @@
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2025-02-21 05:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-21 05:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-21 05:49:41 +0000"
     },
     "done": true
   },
