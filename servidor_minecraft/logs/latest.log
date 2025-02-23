@@ -1,31 +1,43 @@
-[00:08:22] [Server thread/INFO]: RodrigoFK has made the advancement [Ice Bucket Challenge]
-[00:11:58] [Server thread/INFO]: [RodrigoFK: Teleported Cer0d0s to RodrigoFK]
-[00:12:37] [Server thread/INFO]: Cer0d0s has made the advancement [Ice Bucket Challenge]
-[00:20:23] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-1986, y=58, z=568} gu{x=-1986, y=59, z=568}
-[00:23:03] [Server thread/INFO]: [RodrigoFK: Gave 1000 experience points to RodrigoFK]
-[00:23:30] [Server thread/INFO]: [RodrigoFK: Teleported Cer0d0s to RodrigoFK]
-[00:23:56] [Server thread/INFO]: RodrigoFK has made the advancement [Enchanter]
-[00:25:02] [Server thread/INFO]: Cer0d0s was slain by RodrigoFK
-[00:25:38] [Server thread/INFO]: [RodrigoFK: Gave 3000 experience points to Cer0d0s]
-[00:26:26] [Server thread/INFO]: Cer0d0s has reached the goal [Postmortal]
-[00:27:51] [Server thread/INFO]: Cer0d0s was slain by RodrigoFK
-[00:28:13] [Server thread/INFO]: [RodrigoFK: Teleported Cer0d0s to RodrigoFK]
-[00:28:17] [Server thread/INFO]: Cer0d0s was slain by RodrigoFK
-[00:28:35] [Server thread/INFO]: Cer0d0s was burnt to a crisp whilst fighting RodrigoFK
-[00:30:20] [Server thread/INFO]: [RodrigoFK: Teleported Cer0d0s to RodrigoFK]
-[00:30:32] [Server thread/INFO]: Cer0d0s has made the advancement [Take Aim]
-[00:30:46] [Server thread/INFO]: [RodrigoFK: Teleported Cer0d0s to RodrigoFK]
-[00:30:53] [Server thread/INFO]: [RodrigoFK: Teleported Cer0d0s to RodrigoFK]
-[00:31:20] [Server thread/INFO]: [RodrigoFK: Teleported Cer0d0s to RodrigoFK]
-[00:31:32] [Server thread/INFO]: [RodrigoFK: Teleported Cer0d0s to RodrigoFK]
-[00:32:38] [Server thread/INFO]: [RodrigoFK: Teleported Cer0d0s to RodrigoFK]
-[00:34:48] [Server thread/INFO]: [RodrigoFK: Gave 3000 experience points to Cer0d0s]
-[00:34:58] [Server thread/INFO]: Cer0d0s has made the advancement [Acquire Hardware]
-[00:35:29] [Server thread/INFO]: [RodrigoFK: Teleported RodrigoFK to Cer0d0s]
-[00:36:41] [Server thread/INFO]: Cer0d0s burned to death
-[00:36:53] [Server thread/INFO]: [RodrigoFK: Gave 3000 experience points to Cer0d0s]
-[00:38:54] [Server thread/INFO]: [RodrigoFK: Teleported RodrigoFK to Cer0d0s]
-[00:40:49] [Server thread/INFO]: Cer0d0s lost connection: Disconnected
-[00:40:49] [Server thread/INFO]: Cer0d0s left the game
-[00:40:50] [Server thread/INFO]: RodrigoFK lost connection: Disconnected
-[00:40:50] [Server thread/INFO]: RodrigoFK left the game
+[04:19:14] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:19:17] [ServerMain/INFO]: Loaded 7 recipes
+[04:19:17] [ServerMain/INFO]: Loaded 1271 advancements
+[04:19:17] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[04:19:17] [Server thread/INFO]: Loading properties
+[04:19:17] [Server thread/INFO]: Default game type: SURVIVAL
+[04:19:17] [Server thread/INFO]: Generating keypair
+[04:19:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:19:18] [Server thread/INFO]: Using epoll channel type
+[04:19:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:19:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:19:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:19:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:19:18] [Server thread/INFO]: Preparing level "world"
+[04:19:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:19:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:19:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:19:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:19:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:19:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:19:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:19:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:19:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:19:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:19:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:19:27] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[04:19:27] [Worker-Main-2/INFO]: Preparing spawn area: 44%
+[04:19:27] [Server thread/INFO]: Time elapsed: 5915 ms
+[04:19:27] [Server thread/INFO]: Done (9.387s)! For help, type "help"
+[04:19:28] [Server thread/INFO]: Cer0d0s[/100.127.33.2:57354] logged in with entity id 27 at (-2031.5, 115.5625, 739.5)
+[04:19:28] [Server thread/INFO]: Cer0d0s joined the game
+[04:19:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3379ms or 67 ticks behind
+[04:22:01] [Server thread/INFO]: RodrigoFK[/100.116.175.90:55442] logged in with entity id 690 at (-2033.5, 115.0, 739.5)
+[04:22:01] [Server thread/INFO]: RodrigoFK joined the game
+[04:23:34] [Server thread/INFO]: [RodrigoFK: Gave 1000 experience points to RodrigoFK]
+[04:23:39] [Server thread/INFO]: [Not Secure] <Cer0d0s> sube perre
+[04:23:44] [Server thread/INFO]: [Not Secure] <RodrigoFK> arriba tuyo?
+[04:31:37] [Server thread/INFO]: [RodrigoFK: Gave 20 [Bone] to Cer0d0s]
+[04:31:48] [Server thread/INFO]: Cer0d0s has made the advancement [Best Friends Forever]
+[04:32:00] [Server thread/INFO]: Cer0d0s has made the advancement [The Parrots and the Bats]
+[04:35:06] [Server thread/INFO]: [RodrigoFK: Gave 20 [Torch] to Cer0d0s]
+[04:35:38] [Server thread/INFO]: [RodrigoFK: Gave 20 [Apple] to Cer0d0s]
+[04:36:04] [Server thread/INFO]: [RodrigoFK: Gave 20 [Rotten Flesh] to Cer0d0s]
