@@ -2340,6 +2340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-23 21:16:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_cyan_wool": "2025-02-23 20:58:09 +0000"
