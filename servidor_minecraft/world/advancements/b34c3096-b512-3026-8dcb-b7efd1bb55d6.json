@@ -544,6 +544,7 @@
       "cooked_beef": "2025-02-21 04:36:35 +0000",
       "apple": "2025-02-15 22:47:22 +0000",
       "potato": "2025-02-15 22:44:01 +0000",
+      "bread": "2025-02-23 20:57:38 +0000",
       "glow_berries": "2025-02-15 23:12:44 +0000",
       "beetroot": "2025-02-15 22:42:18 +0000",
       "cooked_chicken": "2025-02-21 05:28:02 +0000",
@@ -2330,6 +2331,24 @@
   "minecraft:recipes/decorations/magenta_candle": {
     "criteria": {
       "has_magenta_dye": "2025-02-23 05:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-23 20:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-23 20:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-02-23 20:58:09 +0000"
     },
     "done": true
   },
