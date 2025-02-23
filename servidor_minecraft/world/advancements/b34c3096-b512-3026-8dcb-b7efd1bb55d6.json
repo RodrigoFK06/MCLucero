@@ -17,6 +17,7 @@
       "minecraft:river": "2025-02-15 21:49:27 +0000",
       "minecraft:snowy_plains": "2025-02-15 21:19:47 +0000",
       "minecraft:stony_shore": "2025-02-15 22:57:46 +0000",
+      "minecraft:dripstone_caves": "2025-02-23 00:01:45 +0000",
       "minecraft:cold_ocean": "2025-02-15 22:57:51 +0000",
       "minecraft:forest": "2025-02-15 21:36:14 +0000",
       "minecraft:lush_caves": "2025-02-21 05:49:44 +0000",
@@ -1722,6 +1723,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-22 22:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-23 00:01:59 +0000"
     },
     "done": true
   },
