@@ -540,6 +540,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-21 05:01:57 +0000",
+      "cooked_mutton": "2025-02-25 06:00:36 +0000",
       "sweet_berries": "2025-02-15 21:47:13 +0000",
       "cooked_beef": "2025-02-21 04:36:35 +0000",
       "apple": "2025-02-15 22:47:22 +0000",
@@ -2355,6 +2356,18 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-02-23 21:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-02-25 05:55:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-02-25 05:58:45 +0000"
     },
     "done": true
   },
